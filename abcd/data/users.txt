@@ -1,0 +1,5 @@
+1|admin|admin123|ADMIN|1
+2|manager1|mgr123|MANAGER|1
+3|employee1|emp123|EMPLOYEE|1
+4|alice|alice123|CUSTOMER|1
+5|bob|bob123|CUSTOMER|1
